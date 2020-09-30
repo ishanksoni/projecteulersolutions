@@ -1,2 +1,4 @@
 # projecteulersolutions
-Here I will give the solutions of project euler questions.
+This repository contains project euler solutions.  
+[Project Euler](https://projecteuler.net/)  
+:computer:
